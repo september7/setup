@@ -1,0 +1,6 @@
+{
+  "name": "Setup",
+  "tagline": "simple script to install system basics",
+  "body": "### setup.sh\r\nsetup.sh is a simple bash script, which installs the most important linux programs\r\n\r\n### what does it support?\r\ncurrently, only debian is supported. we are working on porting it to arch and other distros\r\n\r\n### is the script finished?\r\nno. we update it everyday\r\n\r\n### how do i run it?\r\ndownload the repository, extract setup.sh and run\r\n    sudo chmod +x setup.sh\r\nnow run\r\n    ./setup.sh\r\n### have an idea or found a bug?\r\nplease add a new issue to our [repo](https://github.com/september7/setup)\r\n",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
